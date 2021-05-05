@@ -2,19 +2,49 @@
 
 - label: 'Introduction'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: Usage
+- label: 'Set Up'
+  link: '/set-up'
+- label: What is Web Development?
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
+    - label: 'The Internet'
+      link: '/internet/history'
+    - label: 'Web Development'
+      link: '/internet/websites'
+    - label: 'Types of Jobs'
+      link: '/internet/jobs'
+- label: HTML
+  items:
+    - label: 'Your first webpage'
+      link: '/html/intro'
+    - label: 'Text tags'
+      link: '/html/text'
+    - label: 'Interactive Tags'
+      link: '/html/interactive'
+- label: CSS
+  items:
+    - label: 'CSS Basics'
+      link: '/CSS/css-basics'
+    - label: 'Box Model'
+      link: '/CSS/box-model'
+    - label: 'How to Learn CSS'
+      link: '/CSS/advanced'
+- label: Javascript
+  items:
+    - label: 'Variables'
+      link: '/js/variables'
+    - label: 'Conditionals'
+      link: '/js/conditionals'
+    - label: 'Functions'
+      link: '/js/functions'
+    - label: 'DOM'
+      link: '/js/DOM'
+    - label: 'Events'
+      link: '/js/events'
 - label: More
   items:
-    - label: FAQ
-      link: /faq
-    - label: 'Github'
-      link: https://github.com/rocketseat/gatsby-themes
+    - label: Useful Resources
+      link: /resources
+    - label: About
+      link: /about
+    - label: Github
+      link: https://github.com/justinsunho/
